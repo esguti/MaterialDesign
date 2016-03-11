@@ -26,4 +26,5 @@
     <color name="article_body">@android:color/black</color>
     <color name="article_title_detail">#8fff</color>
     <color name="transparent">#80000000</color>
+    <color name="maxWidth_linearLayout">#fff</color>
 </resources>
